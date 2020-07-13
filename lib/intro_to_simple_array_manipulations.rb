@@ -16,5 +16,5 @@ def pop_with_args(dog_breeds)
   dog_breeds.pop
 end
 
-def using_unshift(array)
+def using_shift(array)
   array.shift
